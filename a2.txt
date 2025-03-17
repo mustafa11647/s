@@ -1,0 +1,13 @@
+for function1 the alogorithm goes like this:
+(4*5)/2
+so the num of iterations will be 1.
+
+
+for function2 the alogorithm goes like this:
+1+2+3+4
+so the num of iterations will be 1+1+1+1=4
+
+for function3 the alogorithm goes like this
+1+(1+1)+(1+1+1)+(1+1+1+1)
+so the num of iterations will be 1+2+3+4=10
+
